@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PikaCHufy
-- 👀 I’m interested in pixel art and game development
-- 🌱 I’m currently learning GML and C#
-- 📫 How to reach me:
+- Hi, I’m @PikaCHufy
+- I’m interested in pixel art and game development
+- I’m currently learning GML and C#
+- How to reach me:
 
 Discord:PikaCHu#5454
 
